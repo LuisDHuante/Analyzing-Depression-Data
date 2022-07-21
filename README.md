@@ -10,4 +10,4 @@ Depression is a very present problem in today's society. Various factors of soci
 
 ## Project
 
-The full project is contained in the .pdf file included in this repository, as well as the Jupyter Notebook .ipynb file containing all the source code.
+The complete project is included in the .pdf file of this repository, as well as the .ipynb file of Jupyter Notebook, which contains all the source code.
