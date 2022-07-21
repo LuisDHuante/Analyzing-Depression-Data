@@ -1,4 +1,5 @@
-<div style="text-align: center"> # Applying supervised machine learning to detect depression in rural areas. </div># 
+<div style="text-align: center"> # Applying supervised machine learning to detect depression in rural areas. </div>
+
 ![cap](https://user-images.githubusercontent.com/69726163/180331508-33282feb-3274-4651-8928-cc627d438c2d.jpg)
 
 ## Affiliation
