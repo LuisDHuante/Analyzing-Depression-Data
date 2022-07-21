@@ -4,20 +4,8 @@
 This project consists of the comparison of 2 methods of supervised machine learning, Linear Regression and KNN (K Nearest Neighbors) in the prediction of the presence of depression in inhabitants of rural areas.
 
 ## Introduction 
-Today, depression is a very present problem
-in today's society. Various factors of a social nature,
-cultural, economic, among others, strongly influence the
-possibility of different population sectors to develop
-depression. In this project we will analyze a set of data
-which contains various metrics concerning the conditions
-of life of the inhabitants of rural areas and their relationship with
-the Depression. Through the different characteristics (sex,
-income, expenses, number of children, etc), we can infer which
-of them will have depression after the application of 2
-of the different machine learning methods (KNN and
-Logistic Regression), to subsequently compare results
-each other and choose the fittest given the given data.
+Today, depression is a very present problem in today's society. Various factors of a social nature, cultural, economic, among others, strongly influence the possibility of different population sectors to develop depression. In this project we will analyze a set of data which contains various metrics concerning the conditions of life of the inhabitants of rural areas and their relationship with the Depression. Through the different characteristics (sex, income, expenses, number of children, etc), we can infer which of them will have depression after the application of 2 of the different machine learning methods (KNN and Logistic Regression), to subsequently compare results each other and choose the fittest given the given data.
 
 ## Project
 
-The full project is contained in the .pdf file included in this repository, as well as the Jupyter Notebook file containing all the source code.
+The full project is contained in the .pdf file included in this repository, as well as the Jupyter Notebook .ipynb file containing all the source code.
