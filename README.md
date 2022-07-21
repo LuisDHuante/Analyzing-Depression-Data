@@ -1,5 +1,5 @@
 # Applying supervised machine learning to detect depression in rural areas.
-![title](https://user-images.githubusercontent.com/69726163/180107216-02c04e3d-3a1a-42a5-91f5-1971b4246e7f.jpg)
+![cap](https://user-images.githubusercontent.com/69726163/180331508-33282feb-3274-4651-8928-cc627d438c2d.jpg)
 
 ## Affiliation
 Final project for the Supervised Learning 2022-2 class, at Universidad Nacional Autónoma de México (UNAM), in its ENES Morelia Campus, as part of its Bs. in Data Science career plan.
