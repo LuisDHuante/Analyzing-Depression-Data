@@ -17,3 +17,7 @@ of them will have depression after the application of 2
 of the different machine learning methods (KNN and
 Logistic Regression), to subsequently compare results
 each other and choose the fittest given the given data.
+
+## Project
+
+The full project is contained in the .pdf file included in this repository, as well as the Jupyter Notebook file containing all the source code.
