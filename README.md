@@ -1,4 +1,4 @@
-# Supervised machine learning application in detecting depression in rural areas
+# Applying supervised machine learning to detect depression in rural areas.
 ![title](https://user-images.githubusercontent.com/69726163/180107216-02c04e3d-3a1a-42a5-91f5-1971b4246e7f.jpg)
 
 ## Affiliation
