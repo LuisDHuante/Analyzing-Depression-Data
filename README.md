@@ -1,6 +1,9 @@
 # Supervised machine learning application in detecting depression in rural areas
 ![title](https://user-images.githubusercontent.com/69726163/180107216-02c04e3d-3a1a-42a5-91f5-1971b4246e7f.jpg)
 
+## Affiliation
+Final Project for the Supervised Learning 2022-2 class, at Universidad Nacional Autónoma de México (UNAM), in its ENES Morelia Campus (ENES Morelia), as part of its Bs. in Data Science career plan.
+
 This project consists of the comparison of 2 methods of supervised machine learning, Linear Regression and KNN (K Nearest Neighbors) in the prediction of the presence of depression in inhabitants of rural areas.
 
 ## Introduction 
