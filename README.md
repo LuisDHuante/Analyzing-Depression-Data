@@ -1,7 +1,3 @@
-Here's the revised text based on the abstract you provided:
-
----
-
 # Applying Supervised Machine Learning to Classify Celestial Objects
 ## Affiliation
 Final project for the Supervised Learning class at Universidad Nacional Autónoma de México (UNAM), in its ENES Morelia Campus, as part of its B.S. in Data Science career plan.
