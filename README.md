@@ -1,14 +1,16 @@
- # Applying supervised machine learning to detect depression in rural areas
+Here's the revised text based on the abstract you provided:
 
-![cap](https://user-images.githubusercontent.com/69726163/180331508-33282feb-3274-4651-8928-cc627d438c2d.jpg)
+---
 
+# Applying Supervised Machine Learning to Classify Celestial Objects
 ## Affiliation
-Final project for the Supervised Learning 2022-2 class, at Universidad Nacional Autónoma de México (UNAM), in its ENES Morelia Campus, as part of its Bs. in Data Science career plan.
+Final project for the Supervised Learning class at Universidad Nacional Autónoma de México (UNAM), in its ENES Morelia Campus, as part of its B.S. in Data Science career plan.
 
-## Introduction 
-Depression is a very present problem in today's society. Various factors of social, cultural, economic and other nature have a strong influence on the possibility of developing depression in different population groups. In this project, we will analyze a dataset containing various metrics on the living conditions of rural residents and their relationship to depression. Based on the different characteristics (gender, income, expenses, number of children, etc.), after applying two different machine learning methods (KNN and logistic regression), we will be able to infer which of them will develop depression and then compare the results and select the most appropriate one given the data.
-
+## Introduction
+In this project, we explore the use of various supervised machine learning models to classify celestial objects into categories such as galaxies, stars, and quasars. Utilizing a dataset with both photometric and spectral features, we performed an exploratory analysis followed by preprocessing and hyperparameter optimization using GridSearchCV. Our aim was to evaluate the effectiveness of different models and determine which provided the best classification performance.
 
 ## Project
+The full project is available in the .pdf file of this repository, along with the .ipynb file from Jupyter Notebook, which contains all the source code.
 
-The complete project is included in the .pdf file of this repository, as well as the .ipynb file of Jupyter Notebook, which contains all the source code.
+## Abstract
+This project applies several machine learning models, including Gaussian Naive Bayes, K-Nearest Neighbors, Decision Tree, Logistic Regression, Support Vector Machine, and an ensemble method based on a Voting Classifier, to classify celestial objects. After conducting an exploratory analysis and preprocessing the data, hyperparameter tuning was performed via GridSearchCV. The results demonstrated that the ensemble model outperformed the individual models in terms of precision and F1-Score, highlighting the effectiveness of ensemble techniques for enhancing classification accuracy.
