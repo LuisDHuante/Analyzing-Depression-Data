@@ -1,4 +1,6 @@
 # Applying Supervised Machine Learning to Classify Celestial Objects
+<img width="765" alt="Captura de pantalla 2024-07-31 a la(s) 4 42 02 p m" src="https://github.com/user-attachments/assets/3e124655-d8f6-4db9-bc9f-0e60e39caf8c">
+
 ## Affiliation
 Final project for the Supervised Learning class at Universidad Nacional Autónoma de México (UNAM), in its ENES Morelia Campus, as part of its B.S. in Data Science career plan.
 
